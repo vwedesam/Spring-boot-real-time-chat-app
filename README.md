@@ -13,9 +13,9 @@ Client
 
 ## Chat Demo
 
-<!-- ![Chat Demo](img/chat_demo.jpg "Chat screen") -->
+![Chat Demo](https://github.com/vwedesam/Spring-boot-real-time-chat-app/blob/main/chat-client-app/public/demo.jpeg "Chat screen")
 
-To start:
+## To start:
     
 ### Client
         - npm install (in the chat-client-app folder)
