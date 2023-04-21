@@ -59,7 +59,11 @@ body {
   
   .chat-messages{
     height: 80%;
+    min-height: 400px;
+    max-height: 500px;
     border: 1px solid #000;
+    border-radius: 10px;
+    overflow: scroll;
   }
   
   .send-message{
