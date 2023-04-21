@@ -23,4 +23,3 @@ To start:
     
 ### Server
         - mvn spring-boot:run (in the spring-ws-server)
-
