@@ -22,4 +22,4 @@ To start:
         - npm start
     
 ### Server
-        - mvn spring-boot:run (in the spring-ws-server)
+        - mvn spring-boot:run (in the spring-ws-chat-server folder)
